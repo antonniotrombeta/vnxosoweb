@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+VNXOSO WEB COM
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Vnxoso <https://vnxoso-web.com/>`_ là nhà cái chuyên cung cấp những sản phẩm cá cược Casino, thể thao, đá gà, bắn cá, xổ số hợp pháp. Truy cập ngay Vnxoso link mới nhất, Vnxoso Web, Vnxosohn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 216/27 Đ. Đê La Thành, Tổ 24+Tổ 25, Đống Đa, Hà Nội, Việt Nam. 
 
-   This project is under active development.
+Phone: 0348900385. 
 
-Contents
---------
+Email: admin@vnxoso-web.com
 
-.. toctree::
+Website: https://vnxoso-web.com/
 
-   usage
-   api
+#vnxoso #vnxoso_web #vnxosohn #vn_xoso #vn_xoso_web_com #nhacaivnxoso #nha_cai_vnxoso
